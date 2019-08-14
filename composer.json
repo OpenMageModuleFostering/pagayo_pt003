@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/pagayo_pt003",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "Free Magento Theme Jewelry",
+    "authors": [
+    {
+        "name": "Pagayo",
+        "email": "info@pagayo.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
